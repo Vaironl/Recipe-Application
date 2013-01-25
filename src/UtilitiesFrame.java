@@ -1,8 +1,7 @@
 /*
  * Program Name: Recipe Application
- * author: Vairon Mendoza 
+ * author: Vairon M. 
  * date: Feb/06/2012 
- * School: South Lakes High School
  * Computer used: HP Compaq 6000 Pro Microtower
  * IDE used: Eclipse IDE
  * purpose: Provide the user with a simple/flexible recipe organizer application 
